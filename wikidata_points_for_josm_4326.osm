@@ -1,0 +1,775 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-132768' action='modify' visible='true' lat='52.4833' lon='11.1167'>
+    <tag k='WDPA_id:ref' v='344828' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%B6rdlicher%20Dr%C3%B6mling%20im%20Ohre%20Dr%C3%B6mling.jpg' />
+    <tag k='wikidata' v='Q1669446' />
+  </node>
+  <node id='-132769' action='modify' visible='true' lat='52.6275' lon='10.9053'>
+    <tag k='WDPA_id:ref' v='318911' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Steimke%20NSG.JPG' />
+    <tag k='wikidata' v='Q1739489' />
+  </node>
+  <node id='-132770' action='modify' visible='true' lat='52.397' lon='11.3403'>
+    <tag k='WDPA_id:ref' v='164156' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Calv%C3%B6rde%2C%20Rantenhorst%20J%C3%A4gersteg%2003-2012%20a.JPG' />
+    <tag k='wikidata' v='Q1776760' />
+  </node>
+  <node id='-132771' action='modify' visible='true' lat='51.945833333' lon='12.130277777'>
+    <tag k='WDPA_id:ref' v='163961' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BCtrichauer%20Busch%203.JPG' />
+    <tag k='wikidata' v='Q15115923' />
+  </node>
+  <node id='-132772' action='modify' visible='true' lat='52.933333333' lon='11.539722222'>
+    <tag k='WDPA_id:ref' v='378093' />
+    <tag k='wikidata' v='Q15975523' />
+  </node>
+  <node id='-132773' action='modify' visible='true' lat='52.310555555' lon='11.435555555'>
+    <tag k='WDPA_id:ref' v='318182' />
+    <tag k='wikidata' v='Q16054620' />
+  </node>
+  <node id='-132774' action='modify' visible='true' lat='51.828055555' lon='11.081944444'>
+    <tag k='WDPA_id:ref' v='14456' />
+    <tag k='wikidata' v='Q16065057' />
+  </node>
+  <node id='-132775' action='modify' visible='true' lat='52.443333333' lon='11.741944444'>
+    <tag k='WDPA_id:ref' v='14453' />
+    <tag k='wikidata' v='Q16218174' />
+  </node>
+  <node id='-132776' action='modify' visible='true' lat='51.846944444' lon='11.555'>
+    <tag k='WDPA_id:ref' v='165292' />
+    <tag k='wikidata' v='Q16293598' />
+  </node>
+  <node id='-132777' action='modify' visible='true' lat='52.0275' lon='11.569722222'>
+    <tag k='WDPA_id:ref' v='165293' />
+    <tag k='wikidata' v='Q16293613' />
+  </node>
+  <node id='-132778' action='modify' visible='true' lat='53.005555555' lon='11.620555555'>
+    <tag k='WDPA_id:ref' v='389571' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Fr%C3%BChjahrshochwasser.JPG' />
+    <tag k='wikidata' v='Q16830308' />
+  </node>
+  <node id='-132779' action='modify' visible='true' lat='52.464444444' lon='11.960277777'>
+    <tag k='WDPA_id:ref' v='14440' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/15-02-27-Flug-Berlin-D%C3%BCsseldorf-RalfR-DSCF2475-09.jpg' />
+    <tag k='wikidata' v='Q16856647' />
+  </node>
+  <node id='-132780' action='modify' visible='true' lat='51.618888888' lon='11.751944444'>
+    <tag k='WDPA_id:ref' v='319029' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Rothenburger-Saaletal.JPG' />
+    <tag k='wikidata' v='Q16887762' />
+  </node>
+  <node id='-132781' action='modify' visible='true' lat='51.675' lon='11.175555555'>
+    <tag k='WDPA_id:ref' v='318891' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Selkefall.jpg' />
+    <tag k='wikidata' v='Q17048462' />
+  </node>
+  <node id='-132782' action='modify' visible='true' lat='51.723333' lon='11.167778'>
+    <tag k='WDPA_id:ref' v='162080' />
+    <tag k='website' v='http://www.lvwa-natur.sachsen-anhalt.de/quedlin/nsg0068.htm' />
+    <tag k='wikidata' v='Q17122197' />
+  </node>
+  <node id='-132783' action='modify' visible='true' lat='51.383611111' lon='11.414444444'>
+    <tag k='WDPA_id:ref' v='162509' />
+    <tag k='wikidata' v='Q17122504' />
+  </node>
+  <node id='-132784' action='modify' visible='true' lat='51.698333333' lon='11.179722222'>
+    <tag k='WDPA_id:ref' v='162651' />
+    <tag k='wikidata' v='Q17122553' />
+  </node>
+  <node id='-132785' action='modify' visible='true' lat='51.664722222' lon='11.308055555'>
+    <tag k='WDPA_id:ref' v='162679' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Am%20Clusberg.jpg' />
+    <tag k='wikidata' v='Q17122675' />
+  </node>
+  <node id='-132786' action='modify' visible='true' lat='51.494166666' lon='11.510833333'>
+    <tag k='WDPA_id:ref' v='162903' />
+    <tag k='wikidata' v='Q17123004' />
+  </node>
+  <node id='-132787' action='modify' visible='true' lat='51.707222222' lon='11.333888888'>
+    <tag k='WDPA_id:ref' v='163153' />
+    <tag k='wikidata' v='Q17123244' />
+  </node>
+  <node id='-132788' action='modify' visible='true' lat='51.728888888' lon='11.209722222'>
+    <tag k='WDPA_id:ref' v='318427' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Am%20Kleinen%20Gegenstein.jpg' />
+    <tag k='wikidata' v='Q17123303' />
+  </node>
+  <node id='-132789' action='modify' visible='true' lat='51.532777777' lon='11.355555555'>
+    <tag k='WDPA_id:ref' v='163255' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/P%C3%B6lsfeldLandschaftO.JPG' />
+    <tag k='wikidata' v='Q17123368' />
+  </node>
+  <node id='-132790' action='modify' visible='true' lat='51.525277777' lon='11.618611111'>
+    <tag k='WDPA_id:ref' v='163548' />
+    <tag k='wikidata' v='Q17123538' />
+  </node>
+  <node id='-132791' action='modify' visible='true' lat='51.834444444' lon='11.145833333'>
+    <tag k='WDPA_id:ref' v='163578' />
+    <tag k='wikidata' v='Q17123557' />
+  </node>
+  <node id='-132792' action='modify' visible='true' lat='51.453611111' lon='11.356944444'>
+    <tag k='WDPA_id:ref' v='318658' />
+    <tag k='wikidata' v='Q17124076' />
+  </node>
+  <node id='-132793' action='modify' visible='true' lat='51.740555555' lon='11.099166666'>
+    <tag k='WDPA_id:ref' v='164734' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Himmelschl%C3%BCssel%20NSG%20M%C3%BCnchenberg%2001.JPG' />
+    <tag k='wikidata' v='Q17124838' />
+  </node>
+  <node id='-132794' action='modify' visible='true' lat='51.4725' lon='11.373888888'>
+    <tag k='WDPA_id:ref' v='329569' />
+    <tag k='wikidata' v='Q17125021' />
+  </node>
+  <node id='-132795' action='modify' visible='true' lat='51.68111111' lon='11.23444444'>
+    <tag k='WDPA_id:ref' v='165553' />
+    <tag k='wikidata' v='Q17127361' />
+  </node>
+  <node id='-132796' action='modify' visible='true' lat='51.694444444' lon='11.066944444'>
+    <tag k='WDPA_id:ref' v='165605' />
+    <tag k='wikidata' v='Q17127437' />
+  </node>
+  <node id='-132797' action='modify' visible='true' lat='51.64555556' lon='11.45666667'>
+    <tag k='WDPA_id:ref' v='165677' />
+    <tag k='website' v='http://www.lvwa-natur.sachsen-anhalt.de/mansfeld/nsg0076.htm' />
+    <tag k='wikidata' v='Q17127541' />
+  </node>
+  <node id='-132798' action='modify' visible='true' lat='52.105833333' lon='12.128888888'>
+    <tag k='WDPA_id:ref' v='162650' />
+    <tag k='wikidata' v='Q17310666' />
+  </node>
+  <node id='-132799' action='modify' visible='true' lat='52.020555555' lon='11.904444444'>
+    <tag k='WDPA_id:ref' v='162786' />
+    <tag k='wikidata' v='Q17321290' />
+  </node>
+  <node id='-132800' action='modify' visible='true' lat='52.321666666' lon='12.240555555'>
+    <tag k='WDPA_id:ref' v='163095' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Fiener%20bruch%20bei%20k%C3%B6nigsroder%20hof.JPG' />
+    <tag k='wikidata' v='Q17321641' />
+  </node>
+  <node id='-132801' action='modify' visible='true' lat='51.691388888' lon='11.556111111'>
+    <tag k='WDPA_id:ref' v='163345' />
+    <tag k='wikidata' v='Q17322010' />
+  </node>
+  <node id='-132802' action='modify' visible='true' lat='52.226388888' lon='12.233888888'>
+    <tag k='WDPA_id:ref' v='14444' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Blick%20auf%20die%20Ehle%20Magdeburgerforth.jpg' />
+    <tag k='wikidata' v='Q17324968' />
+  </node>
+  <node id='-132803' action='modify' visible='true' lat='51.748333333' lon='13.127222222'>
+    <tag k='WDPA_id:ref' v='318091' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Naturschutzgebiet%20Alte%20Elster%20und%20Rohrbornwiesen%202.JPG' />
+    <tag k='wikidata' v='Q17325302' />
+  </node>
+  <node id='-132804' action='modify' visible='true' lat='51.696388888' lon='11.532777777'>
+    <tag k='WDPA_id:ref' v='164989' />
+    <tag k='wikidata' v='Q17325682' />
+  </node>
+  <node id='-132805' action='modify' visible='true' lat='52.244444444' lon='12.126388888'>
+    <tag k='WDPA_id:ref' v='165185' />
+    <tag k='wikidata' v='Q17325914' />
+  </node>
+  <node id='-132806' action='modify' visible='true' lat='51.747777777' lon='11.498333333'>
+    <tag k='WDPA_id:ref' v='165389' />
+    <tag k='wikidata' v='Q17326064' />
+  </node>
+  <node id='-132807' action='modify' visible='true' lat='51.905' lon='11.990833333'>
+    <tag k='WDPA_id:ref' v='14448' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Elberadweg%20zwischen%20Badetz%20und%20Steckby.jpg' />
+    <tag k='wikidata' v='Q17326380' />
+  </node>
+  <node id='-132808' action='modify' visible='true' lat='51.783888888' lon='11.434166666'>
+    <tag k='WDPA_id:ref' v='166322' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/WilsleberSee2.JPG' />
+    <tag k='wikidata' v='Q17327036' />
+  </node>
+  <node id='-132809' action='modify' visible='true' lat='51.684722222' lon='12.161388888'>
+    <tag k='WDPA_id:ref' v='166088' />
+    <tag k='website' v='http://www.lvwa-natur.sachsen-anhalt.de/doppel/nsg0133.htm' />
+    <tag k='wikidata' v='Q18612978' />
+  </node>
+  <node id='-132810' action='modify' visible='true' lat='52.029166666' lon='12.372777777'>
+    <tag k='WDPA_id:ref' v='165406' />
+    <tag k='wikidata' v='Q18612982' />
+  </node>
+  <node id='-132811' action='modify' visible='true' lat='52.055833333' lon='12.217777777'>
+    <tag k='WDPA_id:ref' v='14449' />
+    <tag k='wikidata' v='Q18612985' />
+  </node>
+  <node id='-132812' action='modify' visible='true' lat='51.826388888' lon='11.994722222'>
+    <tag k='WDPA_id:ref' v='14462' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Neolith-Teich%20k4.jpg' />
+    <tag k='wikidata' v='Q18612986' />
+  </node>
+  <node id='-132813' action='modify' visible='true' lat='52.013888888' lon='12.051388888'>
+    <tag k='WDPA_id:ref' v='164963' />
+    <tag k='wikidata' v='Q18612987' />
+  </node>
+  <node id='-132814' action='modify' visible='true' lat='52.023055555' lon='12.269444444'>
+    <tag k='WDPA_id:ref' v='165009' />
+    <tag k='wikidata' v='Q18612988' />
+  </node>
+  <node id='-132815' action='modify' visible='true' lat='52.035' lon='12.234722222'>
+    <tag k='WDPA_id:ref' v='165088' />
+    <tag k='wikidata' v='Q18612989' />
+  </node>
+  <node id='-132816' action='modify' visible='true' lat='51.695278' lon='12.489722'>
+    <tag k='WDPA_id:ref' v='163954' />
+    <tag k='wikidata' v='Q21226108' />
+  </node>
+  <node id='-132817' action='modify' visible='true' lat='51.748611111' lon='12.840277777'>
+    <tag k='WDPA_id:ref' v='9344' />
+    <tag k='wikidata' v='Q21226667' />
+  </node>
+  <node id='-132818' action='modify' visible='true' lat='51.826944444' lon='12.773055555'>
+    <tag k='WDPA_id:ref' v='14467' />
+    <tag k='wikidata' v='Q21709441' />
+  </node>
+  <node id='-132819' action='modify' visible='true' lat='51.706666666' lon='12.58'>
+    <tag k='WDPA_id:ref' v='165878' />
+    <tag k='wikidata' v='Q22694304' />
+  </node>
+  <node id='-132820' action='modify' visible='true' lat='51.8' lon='12.881111111'>
+    <tag k='WDPA_id:ref' v='14422' />
+    <tag k='wikidata' v='Q22694386' />
+  </node>
+  <node id='-132821' action='modify' visible='true' lat='51.873333333' lon='12.201111111'>
+    <tag k='WDPA_id:ref' v='14463' />
+    <tag k='wikidata' v='Q18613000' />
+  </node>
+  <node id='-132822' action='modify' visible='true' lat='51.809166666' lon='12.129444444'>
+    <tag k='WDPA_id:ref' v='165224' />
+    <tag k='wikidata' v='Q18613001' />
+  </node>
+  <node id='-132823' visible='true' lat='51.773888888' lon='12.361944444'>
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Oranienbaumer%20Heide%20k3.jpg' />
+    <tag k='wikidata' v='Q18613002' />
+  </node>
+  <node id='-132824' action='modify' visible='true' lat='51.936666666' lon='12.276388888'>
+    <tag k='WDPA_id:ref' v='162618' />
+    <tag k='wikidata' v='Q18616907' />
+  </node>
+  <node id='-132825' visible='true' lat='51.50361111' lon='11.90527778'>
+    <tag k='wikidata' v='Q21042035' />
+  </node>
+  <node id='-132826' action='modify' visible='true' lat='51.424444444' lon='11.958333333'>
+    <tag k='WDPA_id:ref' v='162041' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Gerwische3.JPG' />
+    <tag k='wikidata' v='Q21042036' />
+  </node>
+  <node id='-132827' action='modify' visible='true' lat='51.44472222' lon='11.91805556'>
+    <tag k='WDPA_id:ref' v='318942' />
+    <tag k='wikidata' v='Q21042037' />
+  </node>
+  <node id='-132828' action='modify' visible='true' lat='51.46305556' lon='11.94222222'>
+    <tag k='WDPA_id:ref' v='165072' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/WildeSaale-Rabeninsel1.JPG' />
+    <tag k='wikidata' v='Q21042038' />
+  </node>
+  <node id='-132829' action='modify' visible='true' lat='51.5' lon='11.946666666'>
+    <tag k='WDPA_id:ref' v='164843' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Pei%C3%9Fnitznordspitze4.JPG' />
+    <tag k='wikidata' v='Q21042101' />
+  </node>
+  <node id='-132830' action='modify' visible='true' lat='51.5097' lon='11.9281'>
+    <tag k='WDPA_id:ref' v='162532' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Brandberge-Herbst.JPG' />
+    <tag k='wikidata' v='Q897821' />
+  </node>
+  <node id='-132831' action='modify' visible='true' lat='51.53' lon='11.89'>
+    <tag k='WDPA_id:ref' v='164526' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Lunzberge%20IMG%207503.JPG' />
+    <tag k='wikidata' v='Q1282760' />
+  </node>
+  <node id='-132832' visible='true' lat='51.86138889' lon='11.90277778'>
+    <tag k='wikidata' v='Q15855149' />
+  </node>
+  <node id='-132833' action='modify' visible='true' lat='51.502222222' lon='11.123611111'>
+    <tag k='WDPA_id:ref' v='14469' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Bauerngraben.jpg' />
+    <tag k='wikidata' v='Q17123369' />
+  </node>
+  <node id='-132834' visible='true' lat='51.78916667' lon='12.28638889'>
+    <tag k='wikidata' v='Q18612999' />
+  </node>
+  <node id='-132835' visible='true' lat='51.78' lon='12.15833333'>
+    <tag k='wikidata' v='Q18616835' />
+  </node>
+  <node id='-132836' visible='true' lat='51.26666667' lon='11.94222222'>
+    <tag k='wikidata' v='Q20821580' />
+  </node>
+  <node id='-132837' visible='true' lat='51.30944443' lon='11.86861134'>
+    <tag k='wikidata' v='Q20999737' />
+  </node>
+  <node id='-132838' visible='true' lat='51.38194444' lon='12.165'>
+    <tag k='wikidata' v='Q21004588' />
+  </node>
+  <node id='-132839' visible='true' lat='51.36777778' lon='12.15722222'>
+    <tag k='wikidata' v='Q21004614' />
+  </node>
+  <node id='-132840' visible='true' lat='51.28027778' lon='11.50583333'>
+    <tag k='wikidata' v='Q21042014' />
+  </node>
+  <node id='-132841' visible='true' lat='51.33111111' lon='11.59888889'>
+    <tag k='wikidata' v='Q21042015' />
+  </node>
+  <node id='-132842' visible='true' lat='51.18916702' lon='11.88111115'>
+    <tag k='wikidata' v='Q21042016' />
+  </node>
+  <node id='-132843' visible='true' lat='51.1275' lon='11.7375'>
+    <tag k='wikidata' v='Q21042017' />
+  </node>
+  <node id='-132844' visible='true' lat='51.41055556' lon='11.9975'>
+    <tag k='wikidata' v='Q21042039' />
+  </node>
+  <node id='-132845' visible='true' lat='51.59916687' lon='11.97749996'>
+    <tag k='wikidata' v='Q21042085' />
+  </node>
+  <node id='-132846' visible='true' lat='51.54305556' lon='11.87138889'>
+    <tag k='wikidata' v='Q21042090' />
+  </node>
+  <node id='-132847' visible='true' lat='51.56694412' lon='11.84722233'>
+    <tag k='wikidata' v='Q21042091' />
+  </node>
+  <node id='-132848' visible='true' lat='51.49' lon='11.785'>
+    <tag k='wikidata' v='Q21042092' />
+  </node>
+  <node id='-132849' visible='true' lat='51.29027778' lon='11.74805556'>
+    <tag k='wikidata' v='Q21042094' />
+  </node>
+  <node id='-132850' visible='true' lat='52.01' lon='10.735'>
+    <tag k='wikidata' v='Q16064900' />
+  </node>
+  <node id='-132851' action='modify' visible='true' lat='52.264444444' lon='11.121666666'>
+    <tag k='WDPA_id:ref' v='14441' />
+    <tag k='wikidata' v='Q16054561' />
+  </node>
+  <node id='-132852' visible='true' lat='51.27638889' lon='11.46805556'>
+    <tag k='wikidata' v='Q21042013' />
+  </node>
+  <node id='-132853' visible='true' lat='51.48805618' lon='11.86527824'>
+    <tag k='wikidata' v='Q21042095' />
+  </node>
+  <node id='-132854' visible='true' lat='51.1932' lon='11.7426'>
+    <tag k='wikidata' v='Q2445557' />
+  </node>
+  <node id='-132855' visible='true' lat='51.2675' lon='11.6747'>
+    <tag k='wikidata' v='Q2454773' />
+  </node>
+  <node id='-132856' visible='true' lat='51.1364' lon='12.1086'>
+    <tag k='wikidata' v='Q1550188' />
+  </node>
+  <node id='-132857' visible='true' lat='51.6428' lon='10.9231'>
+    <tag k='wikidata' v='Q1970806' />
+  </node>
+  <node id='-132858' action='modify' visible='true' lat='51.9878' lon='10.5797'>
+    <tag k='WDPA_id:ref' v='82281' />
+    <tag k='wikidata' v='Q2017202' />
+  </node>
+  <node id='-132859' visible='true' lat='51.2072' lon='11.6167'>
+    <tag k='wikidata' v='Q1438215' />
+  </node>
+  <node id='-132860' action='modify' visible='true' lat='51.52' lon='10.934166666'>
+    <tag k='WDPA_id:ref' v='162121' />
+    <tag k='wikidata' v='Q17122198' />
+  </node>
+  <node id='-132861' action='modify' visible='true' lat='51.558888888' lon='10.907222222'>
+    <tag k='WDPA_id:ref' v='163358' />
+    <tag k='wikidata' v='Q17123425' />
+  </node>
+  <node id='-132862' action='modify' visible='true' lat='51.578333333' lon='10.958055555'>
+    <tag k='WDPA_id:ref' v='164998' />
+    <tag k='wikidata' v='Q17126935' />
+  </node>
+  <node id='-132863' action='modify' visible='true' lat='51.8475' lon='12.5075'>
+    <tag k='WDPA_id:ref' v='14466' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Crassensee.jpg' />
+    <tag k='wikidata' v='Q21708815' />
+  </node>
+  <node id='-132864' action='modify' visible='true' lat='51.945277777' lon='12.730555555'>
+    <tag k='WDPA_id:ref' v='318414' />
+    <tag k='wikidata' v='Q21708856' />
+  </node>
+  <node id='-132865' action='modify' visible='true' lat='51.82883333' lon='10.88866667'>
+    <tag k='WDPA_id:ref' v='166415' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Struvenberg%20-%20Naturschutzgebiet%20Ziegenberg.jpg' />
+    <tag k='wikidata' v='Q1971481' />
+  </node>
+  <node id='-132866' action='modify' visible='true' lat='52.035833333' lon='10.983333333'>
+    <tag k='WDPA_id:ref' v='318080' />
+    <tag k='wikidata' v='Q16054206' />
+  </node>
+  <node id='-132867' action='modify' visible='true' lat='51.951944444' lon='10.968611111'>
+    <tag k='WDPA_id:ref' v='163648' />
+    <tag k='wikidata' v='Q16065157' />
+  </node>
+  <node id='-132868' action='modify' visible='true' lat='52.541111111' lon='11.685833333'>
+    <tag k='WDPA_id:ref' v='163044' />
+    <tag k='wikidata' v='Q16831344' />
+  </node>
+  <node id='-132869' action='modify' visible='true' lat='51.791944444' lon='10.8075'>
+    <tag k='WDPA_id:ref' v='555552620' />
+    <tag k='wikidata' v='Q17127565' />
+  </node>
+  <node id='-132870' action='modify' visible='true' lat='51.151111111' lon='11.727777777'>
+    <tag k='WDPA_id:ref' v='163291' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/SchenkenholzFr%C3%BChling.JPG' />
+    <tag k='wikidata' v='Q20760375' />
+  </node>
+  <node id='-132871' action='modify' visible='true' lat='51.338611111' lon='11.974166666'>
+    <tag k='WDPA_id:ref' v='319239' />
+    <tag k='wikidata' v='Q21042089' />
+  </node>
+  <node id='-132872' action='modify' visible='true' lat='52.083333333' lon='11.201666666'>
+    <tag k='WDPA_id:ref' v='166144' />
+    <tag k='wikidata' v='Q16295341' />
+  </node>
+  <node id='-132873' action='modify' visible='true' lat='51.783055555' lon='11.018333333'>
+    <tag k='WDPA_id:ref' v='163512' />
+    <tag k='wikidata' v='Q17123494' />
+  </node>
+  <node id='-132874' action='modify' visible='true' lat='52.304444444' lon='11.928888888'>
+    <tag k='WDPA_id:ref' v='162649' />
+    <tag k='wikidata' v='Q17310665' />
+  </node>
+  <node id='-132875' action='modify' visible='true' lat='51.979722222' lon='12.255833333'>
+    <tag k='WDPA_id:ref' v='165107' />
+    <tag k='wikidata' v='Q18612991' />
+  </node>
+  <node id='-132876' action='modify' visible='true' lat='51.234722222' lon='11.782222222'>
+    <tag k='WDPA_id:ref' v='164787' />
+    <tag k='wikidata' v='Q20771620' />
+  </node>
+  <node id='-132877' action='modify' visible='true' lat='51.881111' lon='12.346944'>
+    <tag k='WDPA_id:ref' v='319049' />
+    <tag k='wikidata' v='Q21226805' />
+  </node>
+  <node id='-132878' action='modify' visible='true' lat='51.908611111' lon='12.474444444'>
+    <tag k='WDPA_id:ref' v='318941' />
+    <tag k='wikidata' v='Q22693455' />
+  </node>
+  <node id='-132879' action='modify' visible='true' lat='52.634722222' lon='11.260555555'>
+    <tag k='WDPA_id:ref' v='163949' />
+    <tag k='wikidata' v='Q16215676' />
+  </node>
+  <node id='-132880' action='modify' visible='true' lat='52.703888888' lon='11.463055555'>
+    <tag k='WDPA_id:ref' v='14455' />
+    <tag k='wikidata' v='Q16216247' />
+  </node>
+  <node id='-132881' action='modify' visible='true' lat='51.992777777' lon='10.691111111'>
+    <tag k='WDPA_id:ref' v='164120' />
+    <tag k='wikidata' v='Q16216381' />
+  </node>
+  <node id='-132882' action='modify' visible='true' lat='52.028333333' lon='10.686666666'>
+    <tag k='WDPA_id:ref' v='164961' />
+    <tag k='wikidata' v='Q16269058' />
+  </node>
+  <node id='-132883' action='modify' visible='true' lat='51.990277777' lon='10.719166666'>
+    <tag k='WDPA_id:ref' v='166147' />
+    <tag k='wikidata' v='Q16295344' />
+  </node>
+  <node id='-132884' action='modify' visible='true' lat='51.430277777' lon='11.722777777'>
+    <tag k='WDPA_id:ref' v='318124' />
+    <tag k='wikidata' v='Q17122308' />
+  </node>
+  <node id='-132885' action='modify' visible='true' lat='51.500555555' lon='11.683055555'>
+    <tag k='WDPA_id:ref' v='163189' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/GalgenbergNSG-ML2.JPG' />
+    <tag k='wikidata' v='Q17123280' />
+  </node>
+  <node id='-132886' action='modify' visible='true' lat='51.508055555' lon='11.667222222'>
+    <tag k='WDPA_id:ref' v='164331' />
+    <tag k='wikidata' v='Q17124591' />
+  </node>
+  <node id='-132887' action='modify' visible='true' lat='51.494444444' lon='11.667222222'>
+    <tag k='WDPA_id:ref' v='319038' />
+    <tag k='wikidata' v='Q17127248' />
+  </node>
+  <node id='-132888' action='modify' visible='true' lat='51.751388888' lon='11.698611111'>
+    <tag k='WDPA_id:ref' v='162304' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Auewald-3.jpg' />
+    <tag k='wikidata' v='Q17310417' />
+  </node>
+  <node id='-132889' action='modify' visible='true' lat='51.846666666' lon='11.77'>
+    <tag k='WDPA_id:ref' v='165630' />
+    <tag k='wikidata' v='Q17326257' />
+  </node>
+  <node id='-132890' action='modify' visible='true' lat='51.065555555' lon='11.96'>
+    <tag k='WDPA_id:ref' v='318522' />
+    <tag k='wikidata' v='Q21042018' />
+  </node>
+  <node id='-132891' action='modify' visible='true' lat='51.408055555' lon='11.661111111'>
+    <tag k='WDPA_id:ref' v='164271' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Kuckenburger%20Hagen1.JPG' />
+    <tag k='wikidata' v='Q21042096' />
+  </node>
+  <node id='-132892' action='modify' visible='true' lat='51.736944444' lon='12.555'>
+    <tag k='WDPA_id:ref' v='164569' />
+    <tag k='wikidata' v='Q21226542' />
+  </node>
+  <node id='-132893' action='modify' visible='true' lat='52.3411' lon='11.5411'>
+    <tag k='WDPA_id:ref' v='14442' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Lindenwald%2C%20Colbitz-Letzlinger%20Heide.jpg' />
+    <tag k='wikidata' v='Q1107635' />
+  </node>
+  <node id='-132894' action='modify' visible='true' lat='51.8806' lon='12.9834'>
+    <tag k='WDPA_id:ref' v='318791' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Rotbuchen%20Gl%C3%BCcksburger%20Heide.jpg' />
+    <tag k='wikidata' v='Q1532780' />
+  </node>
+  <node id='-132895' action='modify' visible='true' lat='52.6936' lon='11.0564'>
+    <tag k='WDPA_id:ref' v='14450' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/NSG%20Tangeln%20Wald.JPG' />
+    <tag k='wikidata' v='Q2659889' />
+  </node>
+  <node id='-132896' action='modify' visible='true' lat='52.263055555' lon='11.057777777'>
+    <tag k='WDPA_id:ref' v='318154' />
+    <tag k='wikidata' v='Q16054507' />
+  </node>
+  <node id='-132897' action='modify' visible='true' lat='52.806388888' lon='11.119166666'>
+    <tag k='WDPA_id:ref' v='163046' />
+    <tag k='wikidata' v='Q16064372' />
+  </node>
+  <node id='-132898' action='modify' visible='true' lat='52.303888888' lon='11.756111111'>
+    <tag k='WDPA_id:ref' v='165200' />
+    <tag k='wikidata' v='Q16292958' />
+  </node>
+  <node id='-132899' action='modify' visible='true' lat='52.676111111' lon='12.193611111'>
+    <tag k='WDPA_id:ref' v='14439' />
+    <tag k='wikidata' v='Q16856750' />
+  </node>
+  <node id='-132900' action='modify' visible='true' lat='51.4175' lon='11.216388888'>
+    <tag k='WDPA_id:ref' v='318485' />
+    <tag k='wikidata' v='Q17123484' />
+  </node>
+  <node id='-132901' action='modify' visible='true' lat='51.123333333' lon='11.860555555'>
+    <tag k='WDPA_id:ref' v='318493' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Halbbergeblick.JPG' />
+    <tag k='wikidata' v='Q21011374' />
+  </node>
+  <node id='-132902' action='modify' visible='true' lat='51.7875' lon='12.986111111'>
+    <tag k='WDPA_id:ref' v='319093' />
+    <tag k='wikidata' v='Q22693886' />
+  </node>
+  <node id='-132903' action='modify' visible='true' lat='52.293055555' lon='11.091388888'>
+    <tag k='WDPA_id:ref' v='165127' />
+    <tag k='wikidata' v='Q16292738' />
+  </node>
+  <node id='-132904' action='modify' visible='true' lat='51.955277777' lon='11.255277777'>
+    <tag k='WDPA_id:ref' v='165537' />
+    <tag k='wikidata' v='Q16294606' />
+  </node>
+  <node id='-132905' action='modify' visible='true' lat='52.809722222' lon='11.994444444'>
+    <tag k='WDPA_id:ref' v='14454' />
+    <tag k='wikidata' v='Q16830356' />
+  </node>
+  <node id='-132906' action='modify' visible='true' lat='52.243055555' lon='11.719444444'>
+    <tag k='WDPA_id:ref' v='319198' />
+    <tag k='wikidata' v='Q17326523' />
+  </node>
+  <node id='-132907' action='modify' visible='true' lat='52.216111111' lon='11.71'>
+    <tag k='WDPA_id:ref' v='166221' />
+    <tag k='wikidata' v='Q17326930' />
+  </node>
+  <node id='-132908' action='modify' visible='true' lat='51.205277777' lon='11.702222222'>
+    <tag k='WDPA_id:ref' v='318548' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Hirschrodaergraben6.JPG' />
+    <tag k='wikidata' v='Q20757665' />
+  </node>
+  <node id='-132909' action='modify' visible='true' lat='51.588888888' lon='11.936111111'>
+    <tag k='WDPA_id:ref' v='318206' />
+    <tag k='wikidata' v='Q21042086' />
+  </node>
+  <node id='-132910' action='modify' visible='true' lat='52.239444444' lon='11.349444444'>
+    <tag k='WDPA_id:ref' v='166238' />
+    <tag k='wikidata' v='Q16295384' />
+  </node>
+  <node id='-132911' action='modify' visible='true' lat='51.62' lon='11.371388888'>
+    <tag k='WDPA_id:ref' v='165339' />
+    <tag k='wikidata' v='Q17127267' />
+  </node>
+  <node id='-132912' action='modify' visible='true' lat='51.675' lon='11.549166666'>
+    <tag k='WDPA_id:ref' v='165390' />
+    <tag k='wikidata' v='Q17127283' />
+  </node>
+  <node id='-132913' action='modify' visible='true' lat='51.748611111' lon='12.265277777'>
+    <tag k='WDPA_id:ref' v='165836' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Taubequellen%20k3.jpg' />
+    <tag k='wikidata' v='Q18612980' />
+  </node>
+  <node id='-132914' action='modify' visible='true' lat='51.773611111' lon='12.265277777'>
+    <tag k='WDPA_id:ref' v='319153' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Steinhorste%20k5.jpg' />
+    <tag k='wikidata' v='Q18612981' />
+  </node>
+  <node id='-132915' action='modify' visible='true' lat='51.77138889' lon='12.25555556'>
+    <tag k='WDPA_id:ref' v='164700' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Raguhn%2CNSG%20M%C3%B6ster%20Birken%2CInfotafel%202015.JPG' />
+    <tag k='wikidata' v='Q18612983' />
+  </node>
+  <node id='-132916' action='modify' visible='true' lat='51.501388888' lon='11.818333333'>
+    <tag k='WDPA_id:ref' v='329529' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B6llmeKalk2.JPG' />
+    <tag k='wikidata' v='Q21042087' />
+  </node>
+  <node id='-132917' action='modify' visible='true' lat='51.843333333' lon='12.380277777'>
+    <tag k='WDPA_id:ref' v='14465' />
+    <tag k='wikidata' v='Q21226263' />
+  </node>
+  <node id='-132918' action='modify' visible='true' lat='51.835833333' lon='12.461666666'>
+    <tag k='WDPA_id:ref' v='165462' />
+    <tag k='wikidata' v='Q22693846' />
+  </node>
+  <node id='-132919' action='modify' visible='true' lat='52.502222222' lon='11.472222222'>
+    <tag k='WDPA_id:ref' v='163944' />
+    <tag k='wikidata' v='Q16216225' />
+  </node>
+  <node id='-132920' action='modify' visible='true' lat='52.629166666' lon='12.004722222'>
+    <tag k='WDPA_id:ref' v='162238' />
+    <tag k='wikidata' v='Q16830461' />
+  </node>
+  <node id='-132921' action='modify' visible='true' lat='52.494166666' lon='12.001944444'>
+    <tag k='WDPA_id:ref' v='14452' />
+    <tag k='wikidata' v='Q16830707' />
+  </node>
+  <node id='-132922' action='modify' visible='true' lat='52.497222222' lon='11.930833333'>
+    <tag k='WDPA_id:ref' v='318342' />
+    <tag k='wikidata' v='Q16831208' />
+  </node>
+  <node id='-132923' action='modify' visible='true' lat='52.79' lon='12.121944444'>
+    <tag k='WDPA_id:ref' v='163946' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Jederitzerholz4.jpg' />
+    <tag k='wikidata' v='Q16832212' />
+  </node>
+  <node id='-132924' action='modify' visible='true' lat='52.812777777' lon='12.150833333'>
+    <tag k='WDPA_id:ref' v='14438' />
+    <tag k='wikidata' v='Q16857330' />
+  </node>
+  <node id='-132925' action='modify' visible='true' lat='51.655277777' lon='11.7575'>
+    <tag k='WDPA_id:ref' v='165863' />
+    <tag k='wikidata' v='Q17048461' />
+  </node>
+  <node id='-132926' action='modify' visible='true' lat='51.496666666' lon='10.954444444'>
+    <tag k='WDPA_id:ref' v='163254' />
+    <tag k='wikidata' v='Q17123366' />
+  </node>
+  <node id='-132927' action='modify' visible='true' lat='51.443611111' lon='11.250833333'>
+    <tag k='WDPA_id:ref' v='318527' />
+    <tag k='wikidata' v='Q17123587' />
+  </node>
+  <node id='-132928' action='modify' visible='true' lat='51.456388888' lon='11.318611111'>
+    <tag k='WDPA_id:ref' v='318572' />
+    <tag k='wikidata' v='Q17123662' />
+  </node>
+  <node id='-132929' action='modify' visible='true' lat='51.605555555' lon='11.405833333'>
+    <tag k='WDPA_id:ref' v='164145' />
+    <tag k='wikidata' v='Q17124099' />
+  </node>
+  <node id='-132930' action='modify' visible='true' lat='51.746666666' lon='10.986111111'>
+    <tag k='WDPA_id:ref' v='319156' />
+    <tag k='wikidata' v='Q17127544' />
+  </node>
+  <node id='-132931' visible='true' lat='51.588055555' lon='11.330555555'>
+    <tag k='wikidata' v='Q17127576' />
+  </node>
+  <node id='-132932' action='modify' visible='true' lat='51.761111111' lon='11.072777777'>
+    <tag k='WDPA_id:ref' v='14457' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Harz%20Teufelsmauer3.JPG' />
+    <tag k='wikidata' v='Q17127666' />
+  </node>
+  <node id='-132933' action='modify' visible='true' lat='51.613333333' lon='11.449722222'>
+    <tag k='WDPA_id:ref' v='319305' />
+    <tag k='wikidata' v='Q17127939' />
+  </node>
+  <node id='-132934' action='modify' visible='true' lat='51.5875' lon='11.2125'>
+    <tag k='WDPA_id:ref' v='82959' />
+    <tag k='wikidata' v='Q17128095' />
+  </node>
+  <node id='-132935' action='modify' visible='true' lat='51.717222222' lon='11.825555555'>
+    <tag k='WDPA_id:ref' v='163231' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/Gerlebogkerteiche2.JPG' />
+    <tag k='wikidata' v='Q17321932' />
+  </node>
+  <node id='-132936' action='modify' visible='true' lat='51.662777777' lon='11.751111111'>
+    <tag k='WDPA_id:ref' v='164773' />
+    <tag k='wikidata' v='Q17325442' />
+  </node>
+  <node id='-132937' action='modify' visible='true' lat='51.640833333' lon='11.742222222'>
+    <tag k='WDPA_id:ref' v='166406' />
+    <tag k='wikidata' v='Q17327110' />
+  </node>
+  <node id='-132938' action='modify' visible='true' lat='51.318611111' lon='11.528611111'>
+    <tag k='WDPA_id:ref' v='165636' />
+    <tag k='wikidata' v='Q21042088' />
+  </node>
+  <node id='-132939' action='modify' visible='true' lat='51.321944444' lon='11.471944444'>
+    <tag k='WDPA_id:ref' v='82483' />
+    <tag k='wikidata' v='Q21042093' />
+  </node>
+  <node id='-132940' action='modify' visible='true' lat='51.759722' lon='12.787778'>
+    <tag k='WDPA_id:ref' v='14468' />
+    <tag k='wikidata' v='Q21226398' />
+  </node>
+  <node id='-132941' action='modify' visible='true' lat='51.6825' lon='12.798055555'>
+    <tag k='WDPA_id:ref' v='164403' />
+    <tag k='wikidata' v='Q21710619' />
+  </node>
+  <node id='-132942' action='modify' visible='true' lat='51.711388888' lon='10.741111111'>
+    <tag k='WDPA_id:ref' v='318505' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/BodeZusammenfluss.jpg' />
+    <tag k='wikidata' v='Q1588013' />
+  </node>
+  <node id='-132943' action='modify' visible='true' lat='51.7406' lon='10.6411'>
+    <tag k='WDPA_id:ref' v='318685' />
+    <tag k='wikidata' v='Q1786420' />
+  </node>
+  <node id='-132944' action='modify' visible='true' lat='51.75' lon='10.758055555'>
+    <tag k='WDPA_id:ref' v='162474' />
+    <tag k='wikidata' v='Q1970853' />
+  </node>
+  <node id='-132945' action='modify' visible='true' lat='51.626944444' lon='11.752027777'>
+    <tag k='WDPA_id:ref' v='165274' />
+    <tag k='image' v='http://commons.wikimedia.org/wiki/Special:FilePath/DobisSteinbruch.JPG' />
+    <tag k='wikidata' v='Q17048463' />
+  </node>
+  <node id='-132946' action='modify' visible='true' lat='51.753055555' lon='10.835833333'>
+    <tag k='WDPA_id:ref' v='555552619' />
+    <tag k='wikidata' v='Q17122467' />
+  </node>
+  <node id='-132947' action='modify' visible='true' lat='51.7225' lon='10.8625'>
+    <tag k='WDPA_id:ref' v='318327' />
+    <tag k='wikidata' v='Q17122992' />
+  </node>
+  <node id='-132948' action='modify' visible='true' lat='51.679722222' lon='10.875833333'>
+    <tag k='WDPA_id:ref' v='163555' />
+    <tag k='wikidata' v='Q17123541' />
+  </node>
+  <node id='-132949' action='modify' visible='true' lat='51.659444444' lon='10.826666666'>
+    <tag k='WDPA_id:ref' v='165082' />
+    <tag k='wikidata' v='Q17127034' />
+  </node>
+  <node id='-132950' action='modify' visible='true' lat='51.748055555' lon='10.896111111'>
+    <tag k='WDPA_id:ref' v='319063' />
+    <tag k='wikidata' v='Q17127281' />
+  </node>
+  <node id='-132951' action='modify' visible='true' lat='51.666111111' lon='10.849444444'>
+    <tag k='WDPA_id:ref' v='165831' />
+    <tag k='wikidata' v='Q17127754' />
+  </node>
+  <node id='-132952' action='modify' visible='true' lat='51.658888888' lon='12.4'>
+    <tag k='WDPA_id:ref' v='165893' />
+    <tag k='wikidata' v='Q18612979' />
+  </node>
+  <node id='-132953' action='modify' visible='true' lat='51.616111111' lon='12.456944444'>
+    <tag k='WDPA_id:ref' v='378129' />
+    <tag k='wikidata' v='Q18612984' />
+  </node>
+  <node id='-132954' action='modify' visible='true' lat='51.869444444' lon='11.948333333'>
+    <tag k='WDPA_id:ref' v='14461' />
+    <tag k='wikidata' v='Q18612994' />
+  </node>
+  <node id='-132955' action='modify' visible='true' lat='51.664444444' lon='12.379722222'>
+    <tag k='WDPA_id:ref' v='165405' />
+    <tag k='wikidata' v='Q18630523' />
+  </node>
+</osm>
